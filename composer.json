@@ -1,0 +1,12 @@
+{
+    "name": "nercury/twig-experiments",
+    "require": {
+        "twig/twig": "^1.22"
+    },
+    "authors": [
+        {
+            "name": "Nerijus Arlauskas",
+            "email": "nercury@gmail.com"
+        }
+    ]
+}
